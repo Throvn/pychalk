@@ -1,0 +1,5 @@
+setup.py
+PyChalk.egg-info/PKG-INFO
+PyChalk.egg-info/SOURCES.txt
+PyChalk.egg-info/dependency_links.txt
+PyChalk.egg-info/top_level.txt
